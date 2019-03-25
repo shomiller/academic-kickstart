@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Physics"
+  course = "Ph.D. in Physics"
   institution = "Stony Brook University"
   year = "Expected 2020"
 
