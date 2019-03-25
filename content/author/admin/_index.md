@@ -13,7 +13,7 @@ role = "Research Assistant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "C.N. Yang Institute for Theoretical Physics", url = "insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "" } ]
+organizations = [ { name = "C.N. Yang Institute for Theoretical Physics, Stony Brook Unviersity", url = "https://insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Ph.D. candidate at the YITP at Stony Brook University and DOE SCGSR awardee at Brookhaven National Laboratory."
@@ -39,8 +39,8 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Physics"
-  institution = "Stony Brook University (exp.)"
-  year = 2012
+  institution = "Stony Brook University"
+  year = "Expected 2020"
 
 [[education.courses]]
   course = "B.S. in Physics"
@@ -68,21 +68,31 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/shomiller2"
 
 [[social]]
-  icon = "google-scholar"
+  icon = "inspire"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://inspirehep.net/author/profile/S.Homiller.1"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-0063-6856"
+
+[[social]]
+  icon = "arxiv"
+  icon_pack = "ai"
+  link = "https://arxiv.org/search/?query=Homiller&searchtype=all"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/shomiller"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 I am a Ph.D. candidate the the Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor Patrick Meade. Since Fall 2018, I've been at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
