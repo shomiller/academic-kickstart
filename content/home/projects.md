@@ -25,6 +25,12 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
 
+
+
+  # [[content.filter_button]]
+  #   name = "Machine Learning and the SMEFT"
+  #   tag = "ML SMEFT"
+
   # [[content.filter_button]]
   #   name = "Di-Higgs Production"
   #   tag = "Di-Higgs Production"
@@ -32,12 +38,6 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Spontaneous Flavor Violation"
   #   tag = "SFV"
-
-  # [[content.filter_button]]
-  #   name = "Machine Learning and the SMEFT"
-  #   tag = "ML SMEFT"
-
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -66,11 +66,12 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "bubblechamber.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = false
+
 
 [advanced]
  # Custom CSS.
@@ -78,4 +79,5 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
+
 +++
