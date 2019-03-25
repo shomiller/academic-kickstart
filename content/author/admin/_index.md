@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Samuel Homiller"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,27 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Research Assistant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "C.N. Yang Institute for Theoretical Physics", url = "insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Ph.D. candidate at the YITP at Stony Brook University and DOE SCGSR awardee at Brookhaven National Laboratory."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "shomiller@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Beyond the Standard Model Particle Physics",
+  "Higgs Boson Physics",
+  "Effective Field Theory",
+  "Electroweak Symmetry Breaking",
+  "Flavor Physics",
+  "Baryogenesis",
+  "Machine Learning Applications",  
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +38,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Physics"
+  institution = "Stony Brook University (exp.)"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.S. in Physics"
+  institution = "University of Illinois at Urbana-Champaign"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. in Mathematics"
+  institution = "University of Illinois at Urbana-Champaign"
+  year = 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,7 +65,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/shomiller2"
 
 [[social]]
   icon = "google-scholar"
@@ -81,7 +85,4 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Ph.D. candidate the the Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor Patrick Meade. Since Fall 2018, I've been at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
