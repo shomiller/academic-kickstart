@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Assistant"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "C.N. Yang Institute for Theoretical Physics, Stony Brook Unviersity", url = "https://insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "" } ]
+organizations = [ { name = "C.N. Yang Institute for Theoretical Physics, Stony Brook Unviersity", url = "http://insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "https://www.bnl.gov/physics/HET/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Ph.D. candidate at the YITP at Stony Brook University and DOE SCGSR awardee at Brookhaven National Laboratory."

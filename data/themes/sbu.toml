@@ -1,0 +1,20 @@
+# Theme metadata
+name = "sbu"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#990000"
+primary_light = "#d52027"
+primary_dark = "#6b000d"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#4b4b4b"
+menu_text_active = "#d52027"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
