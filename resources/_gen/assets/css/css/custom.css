@@ -1,0 +1,4 @@
+.dark .card-text{
+  color: {{ .Get "primary_dark" }};
+  border-bottom: solid 1px transparent;
+}
