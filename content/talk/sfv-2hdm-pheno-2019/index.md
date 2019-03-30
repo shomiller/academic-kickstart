@@ -1,5 +1,6 @@
 +++
-title = "Spontaneous Flavor Violation and the 2HDM"
+title = "The Spontaneous Flavor Violating 2HDM"
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -8,7 +9,7 @@ date = 2019-05-08T19:53:54-04:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-03-15T19:53:54-04:00
+publishDate = 2019-03-28T19:53:54-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Samuel Homiller", "Daniel Egana-Ugrinovic", "Patrick Meade"]
@@ -18,10 +19,10 @@ location = "University of Pittsburgh"
 
 # Name of event and optional event URL.
 event = "Phenomenology Symposium 2019"
-event_url = ""
+event_url = "https://indico.cern.ch/event/777988/"
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "Strong constraints on flavor-changing neutral currents (FCNCs) naively imply that flavorful new physics must be at scales far beyond the reach of the LHC or future colliders. Assuming the new physics is flavor blind or has a Standard Model-like structure avoids these bounds but severely limits the potential phenomenology. In contrast, we present an alternative flavorful Ansatz for beyond the Standard Model physics: Spontaneous Flavor Violation (SFV). SFV allows for new physics to couple preferentially to first and second generation quarks while maintaining much of the protection from FCNCs present in the Standard Model. As an explicit example, we consider the SFV Ansatz applied to the two-Higgs doublet model. We present the distinctive phenomenology that arises in heavy charged Higgs production and light Higgs Yukawa enhancements, and emphasize the complementarity between flavor and collider physics observables."
 
 # Summary. An optional shortened abstract.
 summary = ""

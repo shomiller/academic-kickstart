@@ -3,7 +3,7 @@ title = "Measuring the Higgs Trilinear Coupling at an HE-LHC"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-04-05T19:52:52-04:00
+date = 2018-04-05T10:30:52-05:00
 #date_end = 2019-03-25T19:52:52-04:00
 all_day = false
 
@@ -18,13 +18,13 @@ location = "Fermi National Accelerator Laboratory"
 
 # Name of event and optional event URL.
 event = "HL/HE-LHC Meeting"
-event_url = ""
+event_url = "https://indico.fnal.gov/event/16151/overview"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Preliminary results contributed to the HL/HE-LHC Yellow Report on prospects for measuring the Higgs self-coupling at a 27-TeV collider."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -42,7 +42,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "https://indico.fnal.gov/event/16151/session/3/contribution/68/material/slides/0.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["di-higgs-production"]
 
 # Links (optional).
 url_pdf = ""

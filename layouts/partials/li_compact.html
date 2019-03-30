@@ -54,8 +54,13 @@
             {{ end }}
           {{ end }}
         </span>
-        {{ with $item.Params.location }}
+        {{ with $item.Params.event }}
         <span class="middot-divider"></span>
+        <span itemprop="event">{{ . }}</span>
+        {{ end }}
+      </div>
+      <div>
+        {{ with $item.Params.location }}
         <span itemprop="location">{{ . }}</span>
         {{ end }}
       </div>

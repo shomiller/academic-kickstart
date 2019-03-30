@@ -95,4 +95,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am a Ph.D. candidate the the Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor Patrick Meade. Since Fall 2018, I've been at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
+I am a Ph.D. candidate the the Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor <a href=http://insti.physics.sunysb.edu/~meade/>Patrick Meade</a>. Since Fall 2018, I've been at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
