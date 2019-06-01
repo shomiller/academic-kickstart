@@ -4,7 +4,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-05-08T19:53:54-04:00
+date = 2019-05-07T19:53:54-04:00
 #date_end = 2019-05-08T19:53:54-04:00
 all_day = false
 
@@ -43,7 +43,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "https://indico.cern.ch/event/777988/contributions/3410572/attachments/1840113/3016508/homiller_sfv2hdm_talk.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
