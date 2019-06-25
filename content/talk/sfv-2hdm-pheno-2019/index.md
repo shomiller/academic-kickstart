@@ -25,7 +25,7 @@ event_url = "https://indico.cern.ch/event/777988/"
 abstract = "Strong constraints on flavor-changing neutral currents (FCNCs) naively imply that flavorful new physics must be at scales far beyond the reach of the LHC or future colliders. Assuming the new physics is flavor blind or has a Standard Model-like structure avoids these bounds but severely limits the potential phenomenology. In contrast, we present an alternative flavorful Ansatz for beyond the Standard Model physics: Spontaneous Flavor Violation (SFV). SFV allows for new physics to couple preferentially to first and second generation quarks while maintaining much of the protection from FCNCs present in the Standard Model. As an explicit example, we consider the SFV Ansatz applied to the two-Higgs doublet model. We present the distinctive phenomenology that arises in heavy charged Higgs production and light Higgs Yukawa enhancements, and emphasize the complementarity between flavor and collider physics observables."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "An introduction to the Spontaneous Flavor Violation Ansatz, and its application to a Two Higgs Doublet Model."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -51,7 +51,7 @@ url_slides = "https://indico.cern.ch/event/777988/contributions/3410572/attachme
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["spontaneous-flavor-violation"]
 
 # Links (optional).
 url_pdf = ""
