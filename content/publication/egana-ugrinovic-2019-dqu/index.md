@@ -24,8 +24,7 @@ publication_short = ""
 abstract = "A common lore has arisen that beyond the Standard Model (BSM) particles, which can be searched for at current and proposed experiments, should have flavorless or mostly third-generation interactions with Standard Model quarks. This theoretical bias severely limits the exploration of BSM phenomenology, and is especially constraining for extended Higgs sectors. Such limitations can be avoided in the context of Spontaneous Flavor Violation (SFV), a robust and UV complete framework that allows for significant couplings to any up or down-type quark, while suppressing flavor-changing neutral currents via flavor alignment. In this work we study the theory and phenomenology of extended SFV Higgs sectors with large couplings to any quark generation. We perform a comprehensive analysis of flavor and collider constraints of extended SFV Higgs sectors, and demonstrate that new Higgs bosons with large couplings to the light quarks may be found at the electroweak scale. In particular, we find that new Higgses as light as 100 GeV with order ~ 0.1 couplings to first or second generation quarks, which are copiously produced at LHC via quark fusion, are allowed by current constraints. Furthermore, the additional SFV Higgses can mix with the SM Higgs, providing strong theory motivation for an experimental program looking for deviations in the light quark-Higgs couplings. Our work demonstrates the importance of exploring BSM physics coupled preferentially to light quarks, and the need to further develop dedicated experimental techniques for the LHC and future colliders."
 
 # Summary. An optional shortened abstract.
-summary = ""
-
+summary = "We show that Higgses with large couplings to light quarks lead to interesting signals in dijets and enhanced Higgs Yukawas, and are motivated by Spontaneous Flavor Violation."
 # Digital Object Identifier (DOI)
 doi = ""
 
