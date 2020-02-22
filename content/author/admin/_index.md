@@ -94,7 +94,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/homiller_cv.pdf"
+   link = "files/cv.pdf"
 
 +++
 I am a Ph.D. candidate at the <a href=http://insti.physics.sunysb.edu>C. N. Yang Institute for Theoretical Physics (YITP)</a> at Stony Brook University, working with Professor <a href=http://insti.physics.sunysb.edu/~meade>Patrick Meade</a>. Starting Fall, 2020, I'll be a member of the <a href=https://hetg.physics.harvard.edu/home>High Energy Theory group at Harvard University</a>. From Fall 2018 to Fall 2019, I was a visitor at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
