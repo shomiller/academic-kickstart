@@ -13,10 +13,12 @@ role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "C.N. Yang Institute for Theoretical Physics, Stony Brook Unviersity", url = "http://insti.physics.sunysb.edu" }, { name = "Physics Department, Brookhaven National Laboratory", url = "https://www.bnl.gov/physics/HET/" } ]
+organizations = [ { name = "C.N. Yang Institute for Theoretical Physics, Stony Brook Unviersity", url = "http://insti.physics.sunysb.edu" } ]
+#{ name = "Physics Department, Brookhaven National Laboratory", url = "https://www.bnl.gov/physics/HET/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Ph.D. candidate at the YITP at Stony Brook University and DOE SCGSR awardee at Brookhaven National Laboratory."
+bio = "Ph.D. candidate at the YITP at Stony Brook University."
+#and DOE SCGSR awardee at Brookhaven National Laboratory."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "shomiller@gmail.com"
@@ -40,7 +42,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "Ph.D. in Physics"
   institution = "Stony Brook University"
-  year = "Expected 2020"
+  year = "Expected Summer 2020"
 
 [[education.courses]]
   course = "B.S. in Physics"
@@ -95,4 +97,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am a Ph.D. candidate the the Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor <a href=http://insti.physics.sunysb.edu/~meade/>Patrick Meade</a>. Since Fall 2018, I've been at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
+I am a Ph.D. candidate at the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor <a href=http://insti.physics.sunysb.edu/~meade>Patrick Meade</a>. Starting Fall, 2020, I'll be a member of the <a href=https://hetg.physics.harvard.edu/home>High Energy Theory group at Harvard University</a>. From Fall 2018 to Fall 2019, I was a visitor at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
