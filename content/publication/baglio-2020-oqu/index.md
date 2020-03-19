@@ -1,9 +1,9 @@
 +++
-title = "Benchmarking simplified template cross sections in WH production "
-date = 2019-08-19T14:00:00-04:00
+title = "Validity of SMEFT studies of VH and VV Production at NLO"
+date = 2020-03-18T20:00:00-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johann Brehmer", "Sally Dawson", "Samuel Homiller", "Felix Kling", "Tilman Plehn"]
+authors = ["Julien Baglio", "Sally Dawson", "Samuel Homiller", "Samuel D. Lane", "Ian M. Lewis"]
 
 # Publication type.
 # Legend:
@@ -17,17 +17,17 @@ authors = ["Johann Brehmer", "Sally Dawson", "Samuel Homiller", "Felix Kling", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of High Energy Physics, 1911 (2019) 034*"
-publication_short = "JHEP 1911 (2019) 034"
+publication = ""
+publication_short = ""
 
 # Abstract.
-abstract = "Simplified template cross sections define a framework for the measurement and dissemination of kinematic information in Higgs measurements. We benchmark the currently proposed setup in an analysis of dimension-6 effective field theory operators for WH production. Calculating the Fisher information allows us to quantify the sensitivity of this framework to new physics and study its dependence on phase space. New machine-learning techniques let us compare the simplified template cross section framework to the full, high-dimensional kinematic information. We show that the way in which we truncate the effective theory has a sizable impact on the definition of the optimal simplified template cross sections."
+abstract = "The production of 𝑊H, ZH, WW and WZ pairs probes non-Standard-Model interactions of quarks, gauge bosons, and the Higgs boson. New effects can be parameterized in terms of an effective field theory (EFT) where the Lagrangian is expanded in terms of higher-dimension operators suppressed by increasing powers of a high scale Lambda. We examine the importance of including next-to-leading-order QCD corrections in global fits to the coefficients of the EFT. The numerical implications on the fits due to different approaches to enforcing the validity of the EFT are quantified. We pay particular attention to the dependence of the fits on the expansion in 1/Lambda^2 since the differences between results calculated at O(1/Lambda^2) and O(1/Lambda^4) may give insight into the possible significance of dimension-8 effects."
 
 # Summary. An optional shortened abstract.
-summary = "We analyze WH production using the MadMiner machine learning tool and quantify the information in kinematic phase space."
+summary = "We extend our analysis of NLO corrections in the SMEFT on $WW$ and $WZ$ to include the $WH$ and $ZH$ processes."
 
 # Digital Object Identifier (DOI)
-doi = "10.1007/JHEP11(2019)034"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,8 +53,8 @@ projects = ["smeft"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1908.06980.pdf"
-url_preprint = "https://arxiv.org/abs/1908.06980"
+url_pdf = "https://arxiv.org/pdf/2003.07862.pdf"
+url_preprint = "https://arxiv.org/abs/2003.07862"
 url_code = ""
 url_dataset = ""
 url_project = ""

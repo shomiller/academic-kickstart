@@ -17,8 +17,8 @@ authors = ["Julien Baglio", "Sally Dawson", "Samuel Homiller"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "*Phys.Rev.D100 (2019), no. 11, 113010*"
+publication_short = "PRD100, 113010 (2019)"
 
 # Abstract.
 abstract = "We investigate the role of anomalous gauge boson and fermion couplings on the production of WZ and W+W− pairs at the LHC to NLO QCD in the Standard Model effective field theory, including dimension-6 operators. Our results are implemented in a publicly available version of the POWHEG-BOX. We combine our WZ results in the leptonic final state eνμ+μ− with previous W+W− results to demonstrate the numerical effects of NLO QCD corrections on the limits on effective couplings derived from ATLAS and CMS 8 and 13 TeV differential measurements. Our study demonstrates the importance of including NLO QCD SMEFT corrections in the WZ analysis, while the effects on WW production are smaller. Finally, we examine the extreme sensitivity of the analysis to the expansion in 1/Λ^2 or 1/Λ^4, where Λ is the high energy scale associated with the SMEFT."
@@ -27,7 +27,7 @@ abstract = "We investigate the role of anomalous gauge boson and fermion couplin
 summary = "We show that NLO effects in the SMEFT have dramatic effects on the observed limits obtained from $WW$ and $WZ$ production data."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1103/PhysRevD.100.113010"
 
 # Is this a featured publication? (true/false)
 featured = false

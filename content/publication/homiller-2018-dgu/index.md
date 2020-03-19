@@ -9,6 +9,7 @@ abstract = "The currently unmeasured triple Higgs coupling is one of the strong 
 featured = false
 focal_point="Top"
 preview_only="True"
-publication = "*JHEP*"
+publication = "*Journal of High Energy Physics 03, 055 (2019).*"
+publication_short = "JHEP 1903 (2019) 055"
 doi = "10.1007/JHEP03(2019)055"
 +++
