@@ -1,9 +1,9 @@
 +++
-title = "Validity of SMEFT studies of VH and VV Production at NLO"
-date = 2020-03-18T20:00:00-04:00
+title = "Putting SMEFT Fits to Work"
+date = 2020-07-03T20:00:00-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Julien Baglio", "Sally Dawson", "Samuel Homiller", "Samuel D. Lane", "Ian M. Lewis"]
+authors = ["Sally Dawson", "Samuel Homiller", "Samuel D. Lane"]
 
 # Publication type.
 # Legend:
@@ -17,15 +17,14 @@ authors = ["Julien Baglio", "Sally Dawson", "Samuel Homiller", "Samuel D. Lane",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Phys.Rev.D101 (2020), no. 11, 115004*"
-publication_short = "PRD101, 115004 (2020)"
-
+publication = ""
+publication_short = ""
 
 # Abstract.
-abstract = "The production of 𝑊H, ZH, WW and WZ pairs probes non-Standard-Model interactions of quarks, gauge bosons, and the Higgs boson. New effects can be parameterized in terms of an effective field theory (EFT) where the Lagrangian is expanded in terms of higher-dimension operators suppressed by increasing powers of a high scale Lambda. We examine the importance of including next-to-leading-order QCD corrections in global fits to the coefficients of the EFT. The numerical implications on the fits due to different approaches to enforcing the validity of the EFT are quantified. We pay particular attention to the dependence of the fits on the expansion in 1/Lambda^2 since the differences between results calculated at O(1/Lambda^2) and O(1/Lambda^4) may give insight into the possible significance of dimension-8 effects."
+abstract = "The Standard Model Effective Field Theory (SMEFT) provides a consistent framework for comparing precision measurements at the LHC to the Standard Model. The observation of statistically significant non-zero SMEFT coefficients would correspond to physics beyond the Standard Model (BSM) of some sort. A more difficult question to answer is what, if any, detailed information about the nature of the underlying high scale model can be obtained from these measurements. In this work, we consider the patterns of SMEFT operators present in five example models and discuss the assumptions inherent in using global fits to make BSM conclusions. We find that including renormalization group effects has a significant impact on the interpretation of the results. As a by-product of our study, we present an up-dated global fit to SMEFT coefficients in the Warsaw basis including some next-to-leading order QCD corrections in the SMEFT theory."
 
 # Summary. An optional shortened abstract.
-summary = "We extend our analysis of NLO corrections in the SMEFT on $WW$ and $WZ$ to include the $WH$ and $ZH$ processes."
+summary = "We examine SMEFT fits for common extensions of the SM to understand how global fits should be interpreted in the context of new physics."
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -54,8 +53,8 @@ projects = ["smeft"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2003.07862.pdf"
-url_preprint = "https://arxiv.org/abs/2003.07862"
+url_pdf = "https://arxiv.org/pdf/2007.01296.pdf"
+url_preprint = "https://arxiv.org/abs/2007.01296"
 url_code = ""
 url_dataset = ""
 url_project = ""
